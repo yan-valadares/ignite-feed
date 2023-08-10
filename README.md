@@ -14,5 +14,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ##
-
+- Confira também esse projeto desenvolvido com TypeScript [🔗](https://github.com/yan-valadares/ignite-feed-TS)
 - Feito com base em aulas da Rocketseat [🚀](https://www.rocketseat.com.br)
